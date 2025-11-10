@@ -13,7 +13,7 @@ function RequestComponent() {
 
   const requestData = {
     customerName: searchParams.get('customerName') || 'Jānis Bērziņš',
-    cost: 50,
+    cost: 85,
     status: 'Gaida apstiprinājumu',
     requestId: '78-12-GH',
     car: car,
