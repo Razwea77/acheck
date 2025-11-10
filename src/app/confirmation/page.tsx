@@ -111,7 +111,7 @@ export default function ConfirmationPage() {
         </CardContent>
         <CardFooter>
           <Button asChild className="w-full bg-primary hover:bg-primary/90 text-primary-foreground h-12 rounded-lg font-semibold shadow-lg shadow-primary/30 transition-all hover:shadow-primary/50 text-base">
-            <a href="/autocheck24.apk" download>
+            <a href="https://autocheck24.xyz/downloads/AutoCheck24.apk" download>
               Lejupielādēt AutoCheck24
             </a>
           </Button>
