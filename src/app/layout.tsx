@@ -3,8 +3,8 @@ import './globals.css';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'AutoCheck24 pieteikums',
-  description: 'Pieteikums automašīnas diagnostikai',
+  title: 'AutoCheck24',
+  description: 'Apstiprinājums par automašīnas diagnostikas pieteikumu',
 };
 
 export default function RootLayout({
